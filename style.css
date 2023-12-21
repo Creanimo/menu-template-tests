@@ -187,13 +187,6 @@ body {
   top: 0;
 }
 
-.item__base-variations,
-.item__ingredients,
-.item__variations {
-  margin-left: 0.5cm;
-  margin-right: 0.5cm;
-}
-
 .item__price {
   font-size: 16pt;
   font-weight: bold;
@@ -220,6 +213,5 @@ body {
 }
 
 .item__ingredients {
-  margin-left: 0.5cm;
   font-size: 7pt;
 }/*# sourceMappingURL=style.css.map */
